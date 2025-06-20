@@ -13,3 +13,8 @@ misc/html/*
 misc/gifs/*/*.png
 misc/gifs/*/*.mp4
 misc/codes/*
+TidyTemplate_files
+TidyTemplate.html
+TidyTemplate.qmd
+*_files
+references.bib
